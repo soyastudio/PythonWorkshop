@@ -1,1 +1,37 @@
 
+{
+  "reference": "00010010193202409201337_REBATE_REPLAY",
+  "basket": {
+    "contents": [
+      {
+        "itemUnitCount": 0,
+        "upc": "0"
+      }
+    ],
+    "type": "STANDARD"
+  },
+  "operations": [
+    {
+      "transactionDetails": {
+        "merchant_store_id": "1",
+        "merchant_store_parent_id": "jewelosco"
+      },
+      "amount": 0,
+      "rebateemailaddress": "SENORTH@GMAIL.COM",
+      "operationType": "redeem",
+      "token": "1136079437584"
+    }
+  ],
+  "identity": {
+    "identityValue": "874035239034"
+  },
+  "header": {
+    "redemptionType": "Rebate_Redemption",
+    "key": "874035239034|1|00010010193202409201337|20240920133742",
+    "txndatetm": "2024-09-20 13:37:42.160 -0500"
+  },
+  "location": {
+    "incomingIdentifier": "1",
+    "parentIncomingIdentifier": "jewelosco"
+  }
+}
