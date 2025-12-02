@@ -14,5 +14,15 @@ pip install matplotlib
 
 pip install seaborn
 
+pip install mysql-connector-python
+
+pip install pymongo
+
+```
+
+
+```python
+import numpy as np
+
 
 ```
