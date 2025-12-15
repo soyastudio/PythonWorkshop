@@ -22,7 +22,7 @@
 - min()
 - sum()
 - round()
-- power()
+- pow()
 
 ### Object Introspection
 - len()

@@ -8,5 +8,4 @@
     * [NumPy](./data%20science/NumPy.md)
     * [Panadas](./data%20science/Pandas.md)
     * [Resources of Python for Data Science](./data%20science/Resources.md)
-* [Conclusion](#conclusion)
 
